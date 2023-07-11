@@ -54,3 +54,5 @@ The CEO of the biggest customer of the firm suspects that someone has used her c
 Using hvPlot, create a box plot, representing the expenditure data from January 2018 to June 2018 for cardholder ID 25.
 
 Are there any outliers for cardholder ID 25? How many outliers are there per month?
+
+![download](https://github.com/shahp630/Looking-for-Suspicious-Transactions/assets/133065460/4351a7ad-a426-4ad2-9012-cf2259dae4d4)
