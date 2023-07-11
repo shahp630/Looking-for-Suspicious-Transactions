@@ -17,7 +17,7 @@ You are asked to accomplish three main tasks:
 
 # Data Analysis
 
-#Part 1:
+# Part 1:
 
 The CFO of your firm has requested a report to help analyze potential fraudulent transactions. Using your newly created database, generate queries that will discover the information needed to answer the following questions, then use your repository's ReadME file to create a markdown report you can share with the CFO:
 
